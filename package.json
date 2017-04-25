@@ -1,0 +1,22 @@
+{
+  "name": "alice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggazzo/Teoria-da-informa-o-T1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggazzo/Teoria-da-informa-o-T1/issues"
+  },
+  "homepage": "https://github.com/ggazzo/Teoria-da-informa-o-T1#readme",
+  "dependencies": {
+    "burrows-wheeler-transform": "^1.2.0"
+  }
+}
